@@ -17,4 +17,3 @@ and now I'm ready to apply my knowledge and skills in various projects in differ
 
 #Analytics #Data #WebDevelopment #MobileDevelopment #IT #Beginner #Master'sProgram
 
-[Мой профиль на GitHub :octocat:](https://github.com/your_username)
