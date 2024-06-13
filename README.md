@@ -16,3 +16,5 @@ Currently pursuing a Master's degree in "Business Informatics" 📚
 and now I'm ready to apply my knowledge and skills in various projects in different roles. Let's make the world more digital and exciting together! 🌟
 
 #Analytics #Data #WebDevelopment #MobileDevelopment #IT #Beginner #Master'sProgram
+
+[Мой профиль на GitHub :octocat:](https://github.com/your_username)
